@@ -18,3 +18,4 @@ This Streamlit application performs Neural Style Transfer using a pretrained VGG
 
 OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/e6f6bf00-1223-4c2f-8775-2a56d95d0ae7)
